@@ -3,7 +3,6 @@
 #include <string.h>
 #include <time.h>
 #include <malloc.h>
-#include <windows.h>
 
 
 typedef struct Node Node;
