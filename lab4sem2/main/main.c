@@ -6,6 +6,9 @@
 
 void play(Node *current_node) {
     char answer[10];
+    if (current_node == NULL) {
+        return;
+    }
 
     if (!current_node->yes && !current_node->no) {
         printf("I think it's %s!\nDid I guess right? (yes/no): ", current_node->question);
