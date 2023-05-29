@@ -1,0 +1,87 @@
+Is it a programming language?
+Is it interpreted language?
+Is it a dynamically-typed language?
+Python
+*
+*
+Is it run on a Java virtual machine?
+Java
+*
+*
+C
+*
+*
+Is it developed by Apple?
+Swift
+*
+*
+Is it a scripting language?
+Is it often used for web-development?
+Javascript
+*
+*
+SQl
+*
+*
+Is this a objected-oriented programming language?
+C#
+*
+*
+Objected-C
+*
+*
+Is it a spoken language?
+Is it your native language?
+Russian
+*
+*
+Is it the most popular language?
+English
+*
+*
+have a ghfhjd
+finski
+*
+*
+Chinese
+*
+*
+Is it a foreign language?
+DO Asians speak it?
+Japanise
+*
+*
+Korean
+*
+*
+Is this language used in Eurasia?
+Is this language used in southwest Europe?
+Is this the official language in Spain?
+Spanish
+*
+*
+Italian
+*
+*
+Portuguese
+*
+*
+Is this language common in Africa?
+Is it expensive country?
+Arabic
+*
+*
+Kenyan
+*
+*
+Is it a beautiful language?
+Is it an official language in France?
+French
+*
+*
+Turkish
+*
+*
+Is it a sing language
+*
+*

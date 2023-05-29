@@ -1,0 +1,8 @@
+D:/CLionProjects/lab4sem2/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CLionProjects/lab4sem2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/CLionProjects/lab4sem2/cmake-build-debug/lib/CMakeFiles/lib.dir
+D:/CLionProjects/lab4sem2/cmake-build-debug/lib/CMakeFiles/edit_cache.dir
+D:/CLionProjects/lab4sem2/cmake-build-debug/lib/CMakeFiles/rebuild_cache.dir
+D:/CLionProjects/lab4sem2/cmake-build-debug/main/CMakeFiles/lab4sem2.dir
+D:/CLionProjects/lab4sem2/cmake-build-debug/main/CMakeFiles/edit_cache.dir
+D:/CLionProjects/lab4sem2/cmake-build-debug/main/CMakeFiles/rebuild_cache.dir
